@@ -1,5 +1,5 @@
 {
-  "name": "Apz",
+  "name": "apz",
   "license": "UNLICENSED",
   "scripts": {
     "codegen": "graph codegen",
